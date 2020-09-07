@@ -7,6 +7,7 @@
 .Title{
 	font-size: 75% larger ;
 	text-align: center;
+
 }
 
  
@@ -16,6 +17,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+
   
 }
 
@@ -30,6 +32,15 @@
   padding: 1px;
  }
 
+h2.Chiken{
+  background:#ecffb3;
+}
+h2.Beef{
+background: #ff8080;
+}
+h2.Sushi{
+  background:#86b300;
+}
 
 p {
   border: 1px solid black;
